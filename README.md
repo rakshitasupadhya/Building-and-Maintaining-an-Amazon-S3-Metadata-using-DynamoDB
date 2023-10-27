@@ -2,7 +2,8 @@
 This is a demonstration on maintaining metadata of S3 files in DynamoDB using Lambda
 
 # Architecture
-![image](https://github.com/rakshitasupadhya/Building-and-Maintaining-an-Amazon-S3-Metadata-using-DynamoDB/assets/107621546/bfedec29-0e2c-4209-a7f8-72cd59739fae)
+<img width="452" alt="image" src="https://github.com/rakshitasupadhya/Building-and-Maintaining-an-Amazon-S3-Metadata-using-DynamoDB/assets/107621546/fe1477de-3159-494b-8840-9c48ba7b2678">
+
 
 # Implementation
 1. Create IAM Role for Lambda with policies- DynamoDB Full access, S3ReadOnly Access, CloudWatchFullAccess
